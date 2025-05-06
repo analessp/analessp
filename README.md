@@ -27,7 +27,7 @@
 
 ## 📫 Como me encontrar
 <div align="center">
-  <a href="https://www.linkedin.com/ana-lessa/" target="_blank">
+  <a href="https://www.linkedin.com/in/ana-lessa-2a312a253?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
 
 <hr>
