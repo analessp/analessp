@@ -25,13 +25,10 @@
 
 <hr>
 
-<style>
-text-decoretion: none;
 ## 📫 Como me encontrar
 - [LinkedIn](https://www.linkedin.com/in/ana-lessa)
 - [Portfólio](https://seu-portfolio.com)
 - 📧 lessakesia07@gmail.com
-</style>
 
 <hr>
 
