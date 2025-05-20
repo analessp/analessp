@@ -1,6 +1,6 @@
 # Oi, eu sou a Ana Lessa! 👋🏼
 
-💻 Desenvolvedora Full Stack 
+💻 Desenvolvedora FullStack 
 
 🎓 Estudante de Análise e Desenvolvimento de Sistemas
 
