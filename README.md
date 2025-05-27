@@ -6,7 +6,7 @@
 
 <hr>
 
-## Skills
+## 🚀 Skills
 
 <div align="center">
   <!--HTML-->
