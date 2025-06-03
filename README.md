@@ -1,12 +1,8 @@
-# Oi, eu sou a Ana Lessa! 👋🏼
-
-💻 Desenvolvedora FullStack 
-
-🎓 Estudante de Análise e Desenvolvimento de Sistemas
+Sou programadora Full-Stack com forte foco em Front-End utilizando HTML, CSS e JavaScript. Minha paixão é criar soluções eficientes e intuitivas, e estou sempre em busca de novos desafios para aprimorar minhas habilidades.
 
 <hr>
 
-## 🚀 Skills
+## Minhas Habilidades
 
 <div align="center">
   <!--HTML-->
