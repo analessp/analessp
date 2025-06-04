@@ -6,14 +6,26 @@ Sou programadora FullStack com forte foco em Front-End utilizando HTML, CSS e Ja
 
 ## Minhas Habilidades
 
-<div align="center">
+<div align="start">
+  <!--
+    Peguei os icons no repositorio https://github.com/tandpfun/skill-icons
   <!--HTML-->
   <code><img height="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/HTML.svg"></code>
-    <!--CSS-->
+  <!--CSS-->
   <code><img height="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/CSS.svg"></code>
-    <!--JS-->
+  <!--Tailwind CSS-->
+  <code><img height="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/TailwindCSS-Dark.svg"></code>
+  <!--JS-->
   <code><img height="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/JavaScript.svg"></code>
- <code> <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" /> </code>
+  <!--Nodejs-->
+  <code><img height="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/NodeJS-Dark.svg"></code>
+  <!--React-->
+  <code><img height="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/React-Dark.svg"></code>
+  <!--Git-->
+  <code><img height="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Git.svg"></code>
+</div>
+<br>
+<hr>
 
 <hr>
 
