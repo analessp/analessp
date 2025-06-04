@@ -45,6 +45,8 @@ Sou programadora FullStack com forte foco em Front-End utilizando HTML, CSS e Ja
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=analessp&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
 </div>
 
+## Entre em contato
+
 <hr>
 
 <div align="center">
