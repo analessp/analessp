@@ -1,3 +1,5 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=d089ff&height=120&section=header"/>
+
 Sou programadora Full-Stack com forte foco em Front-End utilizando HTML, CSS e JavaScript. Minha paixão é criar soluções eficientes e intuitivas, e estou sempre em busca de novos desafios para aprimorar minhas habilidades.
 
 <hr>
