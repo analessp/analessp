@@ -1,5 +1,13 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=d089ff&height=120&section=header"/>
 
+<span style="display: inline-flex; align-items: center; gap: 8px;">
+  <a href="https://git.io/typing-svg" style="display: inline-flex; align-items: center;">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&width=395&lines=Hi%2C+I'm+Ana+Lessa!"
+         alt="Typing SVG"
+         style="object-fit: contain; transform: translateY(2px);" />
+  </a>
+</span>
+
 Sou programadora FullStack com forte foco em Front-End utilizando HTML, CSS e JavaScript. Minha paixão é criar soluções eficientes e intuitivas, e estou sempre em busca de novos desafios para aprimorar minhas habilidades.
 
 <hr>
