@@ -6,7 +6,7 @@ Sou programadora FullStack com forte foco em Front-End utilizando HTML, CSS e Ja
 
 ## Minhas Habilidades
 
-<div align="start">
+<div align="center">
   <!--
     Peguei os icons no repositorio https://github.com/tandpfun/skill-icons
   <!--HTML-->
