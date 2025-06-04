@@ -29,7 +29,7 @@ Sou programadora FullStack com forte foco em Front-End utilizando HTML, CSS e Ja
   <a href="mailto:lessakesia07@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"  height="35">
   </a>
-  <a href="https://www.linkedin.com/in/analessa/" target="_blank">
+  <a href="https://www.linkedin.com/in/ana-lessa/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="35">
   </a>
 
