@@ -36,3 +36,5 @@ Sou programadora Full-Stack com forte foco em Front-End utilizando HTML, CSS e J
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GabrielCordeiroBarrosoTeles/GabrielCordeiroBarrosoTeles/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/GabrielCordeiroBarrosoTeles/GabrielCordeiroBarrosoTeles/output/pacman-contribution-graph.svg">
 </picture>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=d089ff&height=120&section=header"/>
