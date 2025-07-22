@@ -1,5 +1,3 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=d089ff&height=120&section=header"/>
-
 <span style="display: inline-flex; align-items: center; gap: 8px;">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&width=395&lines=Hi%2C+I'm+Ana+Lessa!"
          alt="Typing SVG"
@@ -9,7 +7,7 @@
 
 ## Sobre Mim
 
-Sou estudante de Análise e Desenvolvimento de Sistemas, programadora FullStack com forte foco em Front-End utilizando HTML, CSS e JavaScript. Minha paixão é criar soluções eficientes e intuitivas, e estou sempre em busca de novos desafios para aprimorar minhas habilidades.
+Sou estudante de Análise e Desenvolvimento de Sistemas, desenvolvedora FullStack com forte foco em Front-End utilizando HTML, CSS e JavaScript. Minha paixão é criar soluções eficientes e intuitivas, e estou sempre em busca de novos desafios para aprimorar minhas habilidades.
 
 <hr>
 
@@ -63,5 +61,3 @@ Sou estudante de Análise e Desenvolvimento de Sistemas, programadora FullStack 
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GabrielCordeiroBarrosoTeles/GabrielCordeiroBarrosoTeles/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/GabrielCordeiroBarrosoTeles/GabrielCordeiroBarrosoTeles/output/pacman-contribution-graph.svg">
 </picture>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=d089ff&height=120&section=footer"/>
