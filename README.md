@@ -11,7 +11,7 @@ Sou estudante de Análise e Desenvolvimento de Sistemas, desenvolvedora FullStac
 
 <hr>
 
-## Minhas Habilidades
+## Hard Skills
 
 <div align="center">
   <!--
@@ -38,8 +38,8 @@ Sou estudante de Análise e Desenvolvimento de Sistemas, desenvolvedora FullStac
 
   <div align="center">
   <a href="https://github.com/analessp">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=analessp&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=analessp&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=analessp&theme=midnight-gray&hide_border=false&include_all_commits=false&count_private=false"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=analessp&theme=midnight-gray&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
 </div>
 
 <hr>
