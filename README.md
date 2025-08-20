@@ -38,7 +38,7 @@ Sou estudante de Análise e Desenvolvimento de Sistemas, desenvolvedora FullStac
 
   <div align="center">
   <a href="https://github.com/analessp">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=analessp&theme=darkk&hide_border=false&include_all_commits=false&count_private=false"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=analessp&theme=dark&hide_border=false&include_all_commits=false&count_private=false"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=analessp&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
 </div>
 
