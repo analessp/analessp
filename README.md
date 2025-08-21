@@ -55,8 +55,8 @@ Sou estudante de Análise e Desenvolvimento de Sistemas, desenvolvedora Full Sta
   </a>
 
 <hr>
-<!--workflow pacman-->
-<!-- 
+
+workflow pacman
 name: Generate pacman animation
 
 on:
@@ -90,4 +90,3 @@ jobs:
           build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
--->
