@@ -1,7 +1,5 @@
-# Ana Lessa
-<hr>
+# Ana Lessa | Dev Full Stack
 
-## Dev Full Stack
 <hr>
 
 ## Sobre Mim
