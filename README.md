@@ -1,17 +1,17 @@
-<span style="display: inline-flex; align-items: center; gap: 8px;">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&width=395&lines=Hi%2C+I'm+Ana+Lessa!"
-         alt="Typing SVG"
-         style="object-fit: contain; transform: translateY(2px);" />
-  </a>
-</span>
+# Ana Lessa
+<hr>
+
+## Dev Full Stack
+<hr>
 
 ## Sobre Mim
 
-Sou estudante de Análise e Desenvolvimento de Sistemas, desenvolvedora Full Stack utilizando HTML, CSS e JavaScript. Minha paixão é criar soluções eficientes e intuitivas, e estou sempre em busca de novos desafios para aprimorar minhas habilidades.
+Estudante de Análise e Desenvolvimento de Sistemas na Unigrande Fortaleza. Minha formação técnica foi impulsionada pela minha participação no programa Geração Tech 2.0, onde me formei como desenvolvedora Full Stack.
+Para continuar aprimorando minhas habilidades, estou realizando um curso de Manutenção e Montagem de Computadores pelo Instituto Dragão do Mar, o que me dá uma visão mais aprofundada do hardware. Além disso, sou voluntária da Comunidade House JS onde tenho aplicado as minhas habilidades em projetos reais contribuindo com a comunidade.
 
 <hr>
 
-## Hard Skills
+## Skills
 
 <div align="center">
   <!--
@@ -32,7 +32,6 @@ Sou estudante de Análise e Desenvolvimento de Sistemas, desenvolvedora Full Sta
   <code><img height="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Git.svg"></code>
 </div>
 <br>
-<hr>
 
 <hr>
 
