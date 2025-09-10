@@ -1,11 +1,8 @@
 # Ana Lessa | Dev Full Stack
 
-<hr>
-
-Estudante de Análise e Desenvolvimento de Sistemas na Unigrande Fortaleza. Minha formação técnica foi impulsionada pela minha participação no programa Geração Tech 2.0, onde me formei como desenvolvedora Full Stack.
-Para continuar aprimorando minhas habilidades, estou realizando um curso de Manutenção e Montagem de Computadores pelo Instituto Dragão do Mar, o que me dá uma visão mais aprofundada do hardware. Além disso, sou voluntária da Comunidade House JS onde tenho aplicado as minhas habilidades em projetos reais contribuindo com a comunidade.
-
-<hr>
+💻 Apaixonada por tecnologia, estou trilhando minha jornada como estudante de Análise e Desenvolvimento de Sistemas.
+💡 Minha formação como desenvolvedora Full Stack pelo Geração Tech 2.0 despertou ainda mais o desejo de criar soluções úteis e inovadoras.
+🔧 Hoje, também me dedico ao estudo de montagem e manutenção de computadores, ampliando minha visão do ecossistema de TI.
 
 ## 🚀 Skills
 
@@ -29,15 +26,11 @@ Para continuar aprimorando minhas habilidades, estou realizando um curso de Manu
 </div>
 <br>
 
-<hr>
-
   <div align="center">
   <a href="https://github.com/analessp">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=analessp&theme=dark&hide_border=false&include_all_commits=false&count_private=false"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=analessp&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
 </div>
-
-<hr>
 
 ## 📬 Entre em contato
 
@@ -48,5 +41,3 @@ Para continuar aprimorando minhas habilidades, estou realizando um curso de Manu
   <a href="https://www.linkedin.com/in/ana-lessa/](https://www.linkedin.com/in/ana-lessa-2a312a253/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="35">
   </a>
-
-<hr>
