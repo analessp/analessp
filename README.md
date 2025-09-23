@@ -1,8 +1,8 @@
 # **Ana Lessa | Dev Full Stack**
 
-💻 Apaixonada por tecnologia, estou trilhando minha jornada como estudante de Análise e Desenvolvimento de Sistemas. <br/>
+🎓 Apaixonada por tecnologia, estou trilhando minha jornada como graduanda de Análise e Desenvolvimento de Sistemas. <br/>
 💡 Minha formação como desenvolvedora Full Stack pelo Geração Tech 2.0 despertou ainda mais o desejo de criar soluções úteis e inovadoras. <br/>
-🔧 Hoje, também me dedico ao estudo de montagem e manutenção de computadores, ampliando minha visão do ecossistema de TI.
+💻 Hoje, também me dedico ao estudo de montagem e manutenção de computadores, ampliando minha visão do ecossistema de TI.
 
 ## 🚀 **Skills**
 
