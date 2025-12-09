@@ -2,7 +2,7 @@
 
 🎓 Apaixonada por tecnologia, estou trilhando minha jornada como graduanda de Análise e Desenvolvimento de Sistemas. <br/>
 💡 Minha formação como desenvolvedora Full Stack pelo Geração Tech 2.0 despertou ainda mais o desejo de criar soluções úteis e inovadoras. <br/>
-💻 Hoje, também me dedico ao estudo de montagem e manutenção de computadores, ampliando minha visão do ecossistema de TI.
+💻 Hoje, atuo como desenvolvedora Web e sou voluntária na Comunidade House JS.
 
 ## 🚀 **Skills**
 
@@ -11,16 +11,17 @@
   <code><img height="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/CSS.svg"></code>
   <code><img height="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/TailwindCSS-Dark.svg"></code>
   <code><img height="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/JavaScript.svg"></code>
-  <code><img height="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/NodeJS-Dark.svg"></code>
   <code><img height="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/React-Dark.svg"></code>
+  <code><img height="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/TypeScript.svg"></code>
+  <code><img height="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/NodeJS-Dark.svg"></code>
+  <code><img height="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Docker.svg"></code>
   <code><img height="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Git.svg"></code>
 </div>
 <br>
 
   <div align="center">
-  <a href="https://github.com/analessp">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=analessp&theme=dark&hide_border=false&include_all_commits=false&count_private=false"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=analessp&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=analessp&show_icons=true&theme=midnight-purple&hide_border=false" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=analessp&layout=compact&theme=midnight-purple&hide_border=false" />
 </div>
 
 ## 📬 **Entre em contato**
@@ -32,3 +33,9 @@
   <a href="https://www.linkedin.com/in/ana-lessa/](https://www.linkedin.com/in/ana-lessa-2a312a253/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="35">
   </a>
+
+  <div align="center">
+  
+  <!-- SNAKE ANIMATION -->
+  <img src="https://github.com/analessp/analessp/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</div>
