@@ -33,9 +33,5 @@
   <a href="https://www.linkedin.com/in/ana-lessa/](https://www.linkedin.com/in/ana-lessa-2a312a253/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="35">
   </a>
-
   <div align="center">
-  
-  <!-- SNAKE ANIMATION -->
-  <img src="https://github.com/analessp/analessp/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</div>
+
