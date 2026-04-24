@@ -1,8 +1,8 @@
 # **Ana Lessa | Dev Full Stack**
 
-🎓 Apaixonada por tecnologia, estou trilhando minha jornada como graduanda de Análise e Desenvolvimento de Sistemas. <br/>
-💡 Minha formação como desenvolvedora Full Stack pelo Geração Tech 2.0 despertou ainda mais o desejo de criar soluções úteis e inovadoras. <br/>
-💻 Hoje, atuo como desenvolvedora Web e sou voluntária na Comunidade House JS.
+🎓 Apaixonada por tecnologia, estou trilhando minha jornada como graduanda de Análise e Desenvolvimento de Sistemas <br/>
+💻 Experiência prática com projetos reais e desenvolvimento web </br>
+🤝 Voluntária na comunidade House JS
 
 ## 🚀 **Skills**
 
@@ -19,10 +19,25 @@
 </div>
 <br>
 
-  <div align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=analessp&show_icons=true&theme=midnight-purple&hide_border=false" />
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=analessp&layout=compact&theme=midnight-purple&hide_border=false" />
+## 📊 **GitHub Stats** ##
+
+<div align="center"
+  
+  <!-- Stats -->
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=analessp&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+  
+  <!-- Languages -->
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=analessp&layout=compact&theme=midnight-purple"/>
+
 </div>
+
+<div align="center">
+
+  <!-- Streak Animation -->
+  <img src="https://streak-stats.demolab.com?user=analessp&theme=midnight-purple&hide_border=false" />
+
+</div>
+
 
 ## 📬 **Entre em contato**
 
@@ -33,5 +48,4 @@
   <a href="https://www.linkedin.com/in/ana-lessa/](https://www.linkedin.com/in/ana-lessa-2a312a253/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="35">
   </a>
-  <div align="center">
-
+</div>
