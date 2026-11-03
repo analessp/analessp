@@ -1,4 +1,4 @@
-# **Ana Lessa | Dev Full Stack**
+# **Ana Lessa | Software Engineer**
 
 🎓 Apaixonada por tecnologia, estou trilhando minha jornada como graduanda de Análise e Desenvolvimento de Sistemas <br/>
 💻 Experiência prática com projetos reais e desenvolvimento web </br>
